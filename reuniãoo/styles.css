@@ -1,0 +1,27 @@
+.cadas{
+    text-decoration: none;
+    color: rgb(239, 65, 65); 
+    font-size: 18px;
+}
+.header{ 
+    background: rgb(239,237,111);
+
+}
+
+/*para rolar o site todo até chegar na página*/
+html {
+    scroll-behavior: smooth;
+}
+
+.header img{
+    width: 100px;
+}
+
+.headercima{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
